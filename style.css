@@ -379,7 +379,11 @@ footer li {
         font-size: 60%;
     }
     .simply-countdown >.simply-section {
-     padding: 30px;
-     margin: 2px;
+        padding: 30px;
+        margin: 2px;
+    }
+    .mynavbar .nav-link {
+        font-size: 2rem;
+        text-align: center;
     }
 }
